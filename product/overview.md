@@ -27,10 +27,14 @@ Ordenadas por impacto × incertidumbre. La primera es la siguiente a atacar.
 2. [product] [value] Los aficionados con 10+ botellas tienen, al menos un par de veces
    al mes, la duda de cuál de sus propias botellas abrir para una comida, y hoy la
    resuelven mal (con la memoria, al azar o abriendo "la de siempre").
-3. [product] [value] Una recomendación limitada a su propio stock vale más para ellos
+3. [opportunity: elegir-vino-de-mi-stock] [viability] Al menos el 40% de quienes
+   reciban recomendaciones basadas en su propio stock sigue pidiéndolas al menos 2
+   veces al mes después de 3 meses — claramente más de lo que retuvieron Vivino u
+   otros registros abandonados. *(Umbral inicial; revisar con benchmark.)*
+4. [product] [value] Una recomendación limitada a su propio stock vale más para ellos
    que una de maridaje genérica (Google, Vivino, preguntarle a ChatGPT), al punto
    de que la prefieren y vuelven a usarla.
-4. [product] [viability] Los aficionados pagarían una suscripción baja (≈ USD 2–4 al
+5. [product] [viability] Los aficionados pagarían una suscripción baja (≈ USD 2–4 al
    mes) si el registro es rápido y las recomendaciones son buenas. Con un plan
    gratuito sin límites, no pagarían. *(Cifra inicial: revalidar con benchmark de
    mercado.)*
