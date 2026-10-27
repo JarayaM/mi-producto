@@ -52,7 +52,7 @@ herramientas). Secundario: **conversión a pago** de una parte de los retenidos.
 Referencias a product/overview.md — el registro único de creencias.
 
 - [product] [value] (creencia 2 del overview, reutilizada) Los aficionados con 10+ botellas tienen, al menos un par de veces al mes, la duda de cuál de sus propias botellas abrir para una comida, y hoy la resuelven mal.
-- [opportunity: elegir-vino-de-mi-stock] [viability] (creencia 3 del overview) Al menos el 40% de quienes reciban recomendaciones basadas en su propio stock sigue pidiéndolas al menos 2 veces al mes después de 3 meses — claramente más de lo que retuvieron Vivino u otros registros abandonados. *(Umbral inicial; revisar con benchmark.)*
+- [opportunity: elegir-vino-de-mi-stock] [viability] (creencia 3 del overview) Al menos el 25% de los usuarios activados (cargaron su stock y recibieron al menos una recomendación) sigue pidiendo recomendaciones basadas en su propio stock al menos 2 veces al mes después de 3 meses — claramente más de lo que retuvieron Vivino u otros registros abandonados. *(Recalibrado desde 40% el 2026-10-27 con benchmark de mercado; ver overview.)*
 - Relacionadas: creencia 1 del overview (la carga del stock como causa del abandono) y creencia 5 (precio).
 
 ## Agenda de investigación
@@ -62,8 +62,8 @@ Referencias a product/overview.md — el registro único de creencias.
 | Creencia 2 (el problema existe y es frecuente) | 1) `/research-market`: foros, grupos y reseñas de apps de vino que pidan "qué abro de lo que tengo" | Si hay señales externas, seguir; si no hay ninguna, reconsiderar el foco | mediados de nov. 2026 |
 | Creencia 2 | 2) `/design-survey`: frecuencia de la duda, cómo eligen hoy, cuántas botellas, subgrupo (recibe gente / regaladas); opt-in a entrevista | Confirmar o descartar la oportunidad; decidir si Tomás queda dentro o en el borde | mediados de dic. 2026 |
 | Creencia 2 (el porqué) | 3) `/design-interview` con quienes aceptaron en la encuesta, priorizando a quienes contradigan la creencia | Entender la última vez que eligieron mal y qué hicieron; entrada para `/explore-solutions` | mediados de ene. 2027 |
-| Creencia 3 (retención 40% a 3 meses) | 1) `/research-market`: benchmark de retención de apps de bodega o maridaje | Ajustar el umbral del 40% antes de medir | mediados de nov. 2026 |
-| Creencia 3 (retención 40% a 3 meses) | 2) Prueba de solución (concierge / Wizard of Oz) vía `/design-solution-tests` | Decidir si se construye; la retención solo se mide con uso real | entre feb. y abr. 2027 |
+| Creencia 3 (retención ≥25% de activados a 3 meses) | 1) `/research-market`: benchmark de retención de apps de bodega o maridaje | Ajustar el umbral del 40% antes de medir — hecho el 2026-10-27: recalibrado a ≥25% de activados | mediados de nov. 2026 |
+| Creencia 3 (retención ≥25% de activados a 3 meses) | 2) Prueba de solución (concierge / Wizard of Oz) vía `/design-solution-tests` | Decidir si se construye; la retención solo se mide con uso real | entre feb. y abr. 2027 |
 
 ## Ideas candidatas (sin evaluar)
 

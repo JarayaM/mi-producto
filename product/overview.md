@@ -27,14 +27,20 @@ Ordenadas por impacto × incertidumbre. La primera es la siguiente a atacar.
 2. [product] [value] Los aficionados con 10+ botellas tienen, al menos un par de veces
    al mes, la duda de cuál de sus propias botellas abrir para una comida, y hoy la
    resuelven mal (con la memoria, al azar o abriendo "la de siempre").
-3. [opportunity: elegir-vino-de-mi-stock] [viability] Al menos el 40% de quienes
-   reciban recomendaciones basadas en su propio stock sigue pidiéndolas al menos 2
-   veces al mes después de 3 meses — claramente más de lo que retuvieron Vivino u
-   otros registros abandonados. *(Umbral inicial; revisar con benchmark.)*
+3. [opportunity: elegir-vino-de-mi-stock] [viability] Al menos el 25% de los usuarios
+   activados (cargaron su stock y recibieron al menos una recomendación) sigue pidiendo
+   recomendaciones basadas en su propio stock al menos 2 veces al mes después de 3
+   meses — claramente más de lo que retuvieron Vivino u otros registros abandonados.
+   *(Umbral recalibrado desde 40% el 2026-10-27 por decisión del fundador, con el
+   benchmark de [product/research/2026-10-19-1711-mercado-cava-recomendacion-stock.md]
+   (2026-10-19): rango defendible 20–30% sobre usuarios activados; el 40% quedaba
+   fuera de rango.)*
 4. [product] [value] Una recomendación limitada a su propio stock vale más para ellos
    que una de maridaje genérica (Google, Vivino, preguntarle a ChatGPT), al punto
    de que la prefieren y vuelven a usarla.
 5. [product] [viability] Los aficionados pagarían una suscripción baja (≈ USD 2–4 al
    mes) si el registro es rápido y las recomendaciones son buenas. Con un plan
    gratuito sin límites, no pagarían. *(Cifra inicial: revalidar con benchmark de
-   mercado.)*
+   mercado.)* — benchmark en [product/research/2026-10-19-1711-mercado-cava-recomendacion-stock.md]
+   (2026-10-19): USD 2–4 está en el extremo bajo del mercado; el mercado regala el
+   inventario y cobra la IA con límite de uso.
