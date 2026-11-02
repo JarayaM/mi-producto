@@ -3,7 +3,7 @@
 > "Tengo buenos vinos en casa, el problema es que nunca me acuerdo de cuáles."
 
 - **Role:** Arquitecta independiente; cocina en casa y recibe amigos o familia casi todos los fines de semana
-- **Type:** primary
+- **Type:** secondary
 - **Age range:** 35–44
 - **Location:** Ciudad grande (Santiago), departamento con un mueble-cava pequeño
 - **Industry:** Arquitectura y diseño
@@ -37,3 +37,11 @@
 - Principal: celular (iPhone), usado con una mano mientras cocina o está en la tienda.
 - Secundario: notebook para trabajo; casi nunca para temas personales.
 - Prefiere apps simples, con pocas pantallas; abandona si el registro le toma más de un par de minutos.
+
+## Evidencia real (2026-11-02)
+
+**Validada en parte, con cobertura baja.** Persona sintética; esta sección no cambia su perfil.
+
+- **Coincide:** R17, R24, R27, R38 y R44 compran, dudan ≥2 veces al mes, les molesta elegir y terminan adivinando tras buscar maridaje. Son 5/30, y 4 vienen de la red del fundador.
+- **No observada:** ninguno de los 6 entrevistados que compran calza con este perfil. Entre ellos, elegir suele ser un gusto.
+- **Tipo:** cambió de `primary` a `secondary` el 2026-11-02, por decisión del fundador. Sufre un problema real, pero minoritario, y la oportunidad priorizada la representa mejor [Teresa Ibáñez](teresa-ibanez.md).

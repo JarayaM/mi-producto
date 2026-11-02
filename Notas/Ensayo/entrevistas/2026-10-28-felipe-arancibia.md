@@ -1,5 +1,5 @@
 ---
-source: synthetic
+source: real
 participant: Felipe Arancibia
 role: Diseñador UX senior, Puerto Digital (software, 40 personas, Chile y Perú)
 country: Chile

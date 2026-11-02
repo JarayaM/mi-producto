@@ -34,3 +34,10 @@
 - Principal: celular Android de gama media, con pocas apps instaladas.
 - No tiene computador personal en casa; usa el del hospital.
 - Prefiere que las cosas lleguen por WhatsApp antes que instalar una app nueva.
+
+## Evidencia real (2026-11-02)
+
+**Conducta validada solo por terceros.** Persona sintética; esta sección no cambia su perfil. Nadie con este perfil fue entrevistado.
+
+- **Coincide:** otras personas de la casa sacan botellas sin avisar, según Marcela, Verónica, Daniel, R11, R35 y R44. A veces van a regalo: "Mi pareja saca botellas para regalar y no me avisa" (R44). Daniel tampoco esperaba que su esposa abriera Notion.
+- **Sin evidencia:** su opinión sobre el gasto del hogar, su rol en el pago y su disposición a avisar por WhatsApp. El tipo `tertiary` no se pudo comprobar.

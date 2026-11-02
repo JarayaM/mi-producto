@@ -1,10 +1,12 @@
 ---
 status: framed
-segment: Aficionados al vino con 10 o más botellas que, al menos de vez en cuando, deben decidir cuál abrir para una ocasión — desde quien recibe gente seguido hasta quien acumula botellas regaladas y sabe poco de vino
+segment: Aficionados al vino con 10 o más botellas, que compran sus botellas y deben decidir cuál abrir para una ocasión. En el borde, quien acumula botellas regaladas y sabe poco de vino
 personas: carolina-mendez, tomas-rivas, lucas-fernandez, elena-valdivia
 ---
 
 # Oportunidad: Elegir qué vino de mi stock abrir para cada ocasión
+
+**En pausa desde el 2026-11-02, por decisión del fundador.** No está descartada. La duda frecuente al elegir no se sostuvo entre quienes compran ([encuesta](../insights/2026-11-02-1805-eleccion-y-registro-de-vino.md), [entrevistas](../insights/2026-11-02-1809-entrevistas-eleccion-y-registro.md)). Las partes con señal siguen en [perder-botellas-sin-abrir-a-tiempo](2026-11-02-1825-perder-botellas-sin-abrir-a-tiempo.md), [stock-incierto-en-la-cava](2026-11-02-1825-stock-incierto-en-la-cava.md) y [sugerencia-maridaje-sin-botella-propia](2026-11-02-1825-sugerencia-maridaje-sin-botella-propia.md).
 
 Los aficionados con 10+ botellas en casa eligen mal qué botella propia abrir para
 una comida u ocasión —abren "la más a mano", una de guarda en una ocasión cualquiera,
@@ -14,14 +16,15 @@ genéricos, pero no responden "cuál de *mis* botellas abro hoy".
 
 ## Segmento y personas
 
-- Carolina Méndez (primary) — sufre el problema: frecuente, con costo concreto (botellas de guarda desperdiciadas, compras repetidas).
-- Tomás Rivas (secondary) — sufre el problema, de forma esporádica: teme abrir "la cara" en la ocasión equivocada. Incluido en el segmento por decisión del fundador.
+- Carolina Méndez (secondary) — sufre el problema: frecuente, con costo concreto (botellas de guarda desperdiciadas, compras repetidas).
+- Tomás Rivas (secondary, en el borde) — sufre el problema de forma esporádica: teme abrir "la cara" en la ocasión equivocada. Pasó a borde por decisión del fundador (2026-11-02): su señal viene solo de WhatsApp, 0/8 abre ≥2 botellas al mes y 8/8 no paga nada ([product/insights/2026-11-02-1805-eleccion-y-registro-de-vino.md]).
 - Lucas Fernández (tertiary) — no lo sufre; lo causa (retira botellas sin registrar) y opina sobre el gasto del hogar → informa la viabilidad.
 - Elena Valdivia (negative) — no lo sufre en esta forma; elige con rigor experto. Fuera de alcance.
 - Faltante: ninguna.
 
-Nota: el segmento combina dos subgrupos (recibe gente con frecuencia / botellas
-regaladas y poco conocimiento); la investigación debe distinguirlos.
+Nota: el subgrupo de botellas regaladas y poco conocimiento queda en el borde del
+segmento; la investigación debe seguir reportándolo aparte y buscarlo fuera de la red
+del fundador.
 
 ## Señales
 
@@ -60,7 +63,7 @@ Referencias a product/overview.md — el registro único de creencias.
 | Creencia | Instrumento | Decisión que desbloquea | Para cuándo |
 |---|---|---|---|
 | Creencia 2 (el problema existe y es frecuente) | 1) `/research-market`: foros, grupos y reseñas de apps de vino que pidan "qué abro de lo que tengo" | Si hay señales externas, seguir; si no hay ninguna, reconsiderar el foco | mediados de nov. 2026 |
-| Creencia 2 | 2) `/design-survey`: frecuencia de la duda, cómo eligen hoy, cuántas botellas, subgrupo (recibe gente / regaladas); opt-in a entrevista | Confirmar o descartar la oportunidad; decidir si Tomás queda dentro o en el borde | mediados de dic. 2026 |
+| Creencia 2 | 2) `/design-survey`: frecuencia de la duda, cómo eligen hoy, cuántas botellas, subgrupo (recibe gente / regaladas); opt-in a entrevista | Confirmar o descartar la oportunidad; decidir si Tomás queda dentro o en el borde — hecho el 2026-11-02: la oportunidad sigue y Tomás queda en el borde | mediados de dic. 2026 |
 | Creencia 2 (el porqué) | 3) `/design-interview` con quienes aceptaron en la encuesta, priorizando a quienes contradigan la creencia | Entender la última vez que eligieron mal y qué hicieron; entrada para `/explore-solutions` | mediados de ene. 2027 |
 | Creencia 3 (retención ≥25% de activados a 3 meses) | 1) `/research-market`: benchmark de retención de apps de bodega o maridaje | Ajustar el umbral del 40% antes de medir — hecho el 2026-10-27: recalibrado a ≥25% de activados | mediados de nov. 2026 |
 | Creencia 3 (retención ≥25% de activados a 3 meses) | 2) Prueba de solución (concierge / Wizard of Oz) vía `/design-solution-tests` | Decidir si se construye; la retención solo se mide con uso real | entre feb. y abr. 2027 |

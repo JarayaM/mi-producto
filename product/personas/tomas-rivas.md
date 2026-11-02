@@ -35,3 +35,12 @@
 - Principal: celular Android, uso intensivo.
 - Secundario: notebook de trabajo con varias pantallas.
 - Cómodo con chat, voz, escáner de cámara; espera que la app "adivine" la mayor parte de los datos.
+
+## Evidencia real (2026-11-02)
+
+**Validado en lo central; conviene revisar el detalle.** Persona sintética; esta sección no cambia su perfil. El tipo `secondary` se sostiene: 0/8 en regaladas abren ≥2 botellas al mes y 8/8 no pagan nada.
+
+- **Coincide:** no distingue el valor de sus botellas, teme equivocarse y no puede traducir un maridaje genérico (Lucía, Andrés y Daniel; también Renata, fuera de filtros). En la encuesta: R01, R02, R05 y R11, todos de WhatsApp.
+- **Falta en el perfil:** regala parte de lo que recibe y pide ayuda a una persona con fotos o audios. Su tarea central es saber cuál puede abrir o regalar.
+- **No coincide:** no se limita a 10–15 botellas ni a 25–34 años. Los entrevistados tienen 14–45 botellas y 26–61 años. Las "una o dos ocasiones al mes" quedan en el extremo alto: 7/8 abrieron una en el último mes.
+- **Sin evidencia:** Android, automatización y comida a domicilio.

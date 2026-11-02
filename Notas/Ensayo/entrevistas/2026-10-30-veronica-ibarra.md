@@ -1,5 +1,5 @@
 ---
-source: synthetic
+source: real
 participant: Verónica Ibarra
 role: Gerente de calidad, Autopartes del Norte (manufactura, 1.200 personas, México y Estados Unidos)
 country: México

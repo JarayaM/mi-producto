@@ -1,5 +1,5 @@
 ---
-source: synthetic
+source: real
 participant: Ernesto Villalobos
 role: Médico internista jubilado, ex Clínica Santa Ana (salud, 200 personas, Costa Rica)
 country: Costa Rica

@@ -1,5 +1,5 @@
 ---
-source: synthetic
+source: real
 participant: Marcela Fuentes
 role: Gerenta de finanzas, Constructora Alto Maipo (construcción, 300 personas, Chile)
 country: Chile
