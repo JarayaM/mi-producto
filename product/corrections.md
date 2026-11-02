@@ -36,3 +36,10 @@ Primera revisión de evidencia (cubre del 2026-10-13 al 2026-10-27).
   **AI proposed:** Umbral de retención de 40% a 3 meses sobre quienes reciben recomendaciones, elegido por la IA como punto de partida.
   **Human decided:** Recalibrar a ≥25% de los usuarios activados.
   **Why:** El benchmark de mercado (product/research/2026-10-19-1711-mercado-cava-recomendacion-stock.md) da un rango defendible de 20–30% sobre usuarios activados; el 40% quedaba fuera de rango.
+
+## 2026-11-02
+
+- **Artifact:** product/personas/carolina-mendez.md
+  **AI assumed:** Carolina era `primary`.
+  **Human decided:** Cambiarla a `secondary`.
+  **Why:** Calzan 5/30 de quienes compran en la encuesta, 4 de ellos de la red del fundador, y ninguno de los 6 entrevistados que compran. Teresa Ibáñez representa mejor la oportunidad priorizada.

@@ -40,3 +40,11 @@
 ## Por qué queda fuera
 
 Parece el usuario ideal de una "cava digital", pero sus necesidades (valuación, ubicación física, ventanas de guarda, rigor de datos a nivel experto) llevarían a un producto distinto: más completo, más lento de usar y más caro de construir. Diseñar para ella iría contra la creencia 1 del overview, que apuesta a un registro rápido y casi sin datos manuales.
+
+## Evidencia real (2026-11-02)
+
+**Validada, con n pequeño.** Persona sintética; esta sección no cambia su perfil. El tipo `negative` se sostiene.
+
+- **Coincide:** R20, R29 y R40 tienen más de 100 botellas, disfrutan mucho elegir, no dudan y mantienen su registro. Todos pagan por vino: "Ninguna, tengo mi sistema de hace 20 años" (R40).
+- **Matiz:** a los 3 se les pasó una botella en los últimos 3 meses, y R20 dice que cuándo abrir "es el unico problema". El problema existe, pero sigue fuera de alcance.
+- **Sin entrevistas:** ningún entrevistado tiene más de 100 botellas.
