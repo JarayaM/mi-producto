@@ -35,7 +35,7 @@ Al comprar para guardar, creas un evento en tu calendario con la fecha que tú e
 Una lista de "las que no pueden esperar" en la puerta del mueble, o una zona física para abrir pronto, con una plantilla simple. Ataca el olvido en el lugar donde se elige, para Teresa Ibáñez (primary). Reemplaza la columna de planilla que nadie miraba. No es software nuevo.
 
 ### A4. Revisión periódica delegada (`revision-de-cava`)
-Dos veces al año envías una foto o una lista y recibes cuáles conviene abrir en los próximos seis meses, sin mantener nada entre revisiones. Ataca el olvido y el no saber, para Teresa Ibáñez (primary) y Carolina Méndez (secondary). Reemplaza el inventario físico de una tarde.
+Cada 3 meses envías una foto o una lista y recibes cuáles conviene abrir en los próximos 3 meses, sin mantener nada entre revisiones. *(Frecuencia ajustada desde "dos veces al año" el 2026-11-12 por decisión del fundador; ver `product/corrections.md`.)* Ataca el olvido y el no saber, para Teresa Ibáñez (primary) y Carolina Méndez (secondary). Reemplaza el inventario físico de una tarde.
 
 ### A5. La fecha viene del vendedor (`fecha-desde-el-vendedor`)
 El club, la vinoteca o la bodega indica "abrir antes de" o avisa a su cliente. Ataca el olvido y el no saber, para las personas tipo Teresa Ibáñez (primary) que compran por esos canales. Reemplaza el buscar la fecha por cuenta propia.
@@ -72,7 +72,7 @@ Qué cambiaría la decisión: si falla la creencia 11, A4 cae salvo que la fecha
 ## Propuesta de valor: Revisión periódica delegada
 
 - **Dolor que alivia:** perder botellas que importaban sin darse cuenta: "abrí la primera y estaba cansado [...] Las otras cinco igual" (Marcela, real). A 4 de 5 casos de Teresa en la encuesta se les pasó una en 3 meses (survey).
-- **Ganancia:** saber qué se viene sin mantener nada: "Saber qué se venía [...] Eso me hace falta" (Marcela).
+- **Ganancia:** saber qué se viene en los próximos 3 meses sin mantener nada: "Saber qué se venía [...] Eso me hace falta" (Marcela).
 - **Reemplaza:** la planilla con fechas y el inventario físico. Marcela encontró 23 diferencias y a las tres semanas ya estaba mala otra vez. Cambiarían porque no hay baja que mantener.
 - **Deliberadamente no:** decir qué abrir hoy, llevar el inventario, resolver la conservación, ni dar ventanas con el rigor que necesitaría Elena.
 

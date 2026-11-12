@@ -1,0 +1,5 @@
+id_aviso,id_participante,canal,tramo_botellas,fecha_llamada,vino,cantidad,por_que_la_guarda,herramienta_aviso,fecha_aviso,dentro_de_rango,fecha_seguimiento,fecha_respuesta,resultado,detalle_decision,dias_aviso_a_accion,cuenta,cita_textual,notas
+A01,P2-01,CAV | Facebook | red del fundador | otro,21–50 | 51–100,,,,,calendario | alarma | recordatorio,,sí | no,"fecha_aviso + 30 días",,abrió | decidió | regaló-vendió-cocinó | pospuso | ignoró | sin respuesta,"fecha u ocasión, si decidió",,sí | no,,
+A02,,,,,,,,,,,,,,,,,,
+A03,,,,,,,,,,,,,,,,,,
+RESUMEN,,,,,,,,,,,,,,,,,,"% de avisos con cuenta = sí sobre los avisos dentro de rango. Pasa si ≥50%. change si 25–49%. discard si <25%. inconclusive si <12 avisos con resultado."
