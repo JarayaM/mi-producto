@@ -1,0 +1,129 @@
+id_participante,linea,fuente,productor,vino,cepa,cosecha,cantidad,tipo,identificada,abrir_antes_de,estado,confianza,conoce_el_vino,en_lista,prioridad,comentario_sommelier
+P1-01,1,foto,Concha y Toro,Marqués de Casa Concha,Cabernet Sauvignon,2020,4,tinto,sí,2030,en ventana,alta,sí,no,,
+P1-01,2,foto,Concha y Toro,Casillero del Diablo Reserva,Carmenère,2021,6,tinto,sí,2026,pasándose,media,sí,sí,2,"Reserva de entrada con 5 años. Está al límite; mejor tomarlas este verano."
+P1-01,3,foto,Viña Leyda,Reserva,Sauvignon Blanc,2023,2,blanco,sí,2025,pasándose,alta,sí,sí,1,"Sauvignon costero de entrada; su gracia es la fruta fresca y ya la está perdiendo."
+P1-01,4,foto,Montes,Montes Alpha,Cabernet Sauvignon,2019,2,tinto,sí,2029,en ventana,alta,sí,no,,
+P1-01,5,foto,Errázuriz,Max Reserva,Carmenère,2020,3,tinto,sí,2027,decae <1 año,media,sí,sí,5,"En su mejor momento; desde fines de 2027 empieza a perder fruta."
+P1-01,6,foto,Santa Rita,Medalla Real Gran Reserva,Cabernet Sauvignon,2021,6,tinto,sí,2029,en ventana,alta,sí,no,,
+P1-01,7,foto,Casa Marín,Cartagena,Pinot Noir,2021,2,tinto,sí,2028,en ventana,media,sí,no,,"Mirar en la próxima revisión."
+P1-01,8,foto,Undurraga,T.H. Limarí,Syrah,2020,2,tinto,sí,2028,en ventana,media,sí,no,,
+P1-01,9,foto,De Martino,Legado,Chardonnay,2022,2,blanco,sí,2028,en ventana,media,sí,no,,
+P1-01,10,foto,Miguel Torres,Santa Digna Estelado Rosé,País (espumante),s/a,2,espumante,sí,2026,pasándose,baja,sí,sí,3,"Sin añada. La caja del club dice despacho 2024: un espumante así se toma dentro de 1–2 años de comprado."
+P1-01,11,foto,Ventisquero,Grey,Carmenère,2020,2,tinto,sí,2029,en ventana,alta,sí,no,,
+P1-01,12,foto,Lapostolle,Cuvée Alexandre,Merlot,2021,2,tinto,sí,2028,en ventana,media,sí,no,,
+P1-01,13,foto,Cono Sur,20 Barrels,Pinot Noir,2022,2,tinto,sí,2028,en ventana,media,sí,no,,
+P1-01,14,foto,Viña Aquitania,Lazuli,Cabernet Sauvignon,2017,1,tinto,sí,2030,en ventana,media,no,no,,
+P1-01,15,foto,Haras de Pirque,Hussonet,Cabernet Sauvignon,2019,2,tinto,sí,2028,en ventana,media,no,no,,
+P1-01,16,foto,Matetic,EQ,Syrah,2020,1,tinto,sí,2029,en ventana,alta,sí,no,,
+P1-01,17,foto,Koyle,Royale,Carmenère,2019,2,tinto,sí,2028,en ventana,media,sí,no,,
+P1-01,18,foto,Morandé,Gran Reserva,Cabernet Sauvignon,2021,2,tinto,sí,2028,en ventana,media,no,no,,
+P1-01,19,foto,,,,,2,tinto,no,,—,,,no,,"Etiqueta lateral ilegible; solo se ve el cuello."
+P1-01,20,foto,,,,,1,espumante,no,,—,,,no,,"Cápsula dorada, sin etiqueta visible."
+P1-01,21,foto,Pandolfi Price,Larkün,Chardonnay,2021,2,blanco,sí,2028,en ventana,baja,no,no,,"Chardonnay de Itata con barrica; aguanta más de lo que parece."
+P1-01,22,foto,Lapostolle,Clos Apalta,Mezcla tinta,2018,1,tinto,sí,2035,guardar,alta,sí,no,,
+P1-01,23,foto,J. Bouchon,País Salvaje,País,2024,2,tinto,sí,2026,pasándose,media,sí,sí,4,"Tinto liviano para tomar joven y fresco; no gana nada con guarda."
+P1-01,24,foto,Santa Carolina,Reserva de Familia,Cabernet Sauvignon,2020,4,tinto,sí,2028,en ventana,alta,sí,no,,
+P1-02,1,ambas,Concha y Toro,Casillero del Diablo Reserva,Cabernet Sauvignon,2019,5,tinto,sí,2025,pasándose,alta,sí,sí,3,"Siete años para un Reserva de entrada: abrir ya. Tiene 5, conviene tomarlas seguidas."
+P1-02,2,ambas,Santa Rita,Medalla Real Gran Reserva,Chardonnay,2020,3,blanco,sí,2025,pasándose,alta,sí,sí,2,"Chardonnay con algo de barrica; a los 6 años sin cava ya debería estar en bajada."
+P1-02,3,ambas,Errázuriz,Max Reserva,Carmenère,2019,4,tinto,sí,2026,pasándose,media,sí,sí,4,
+P1-02,4,ambas,Montes,Classic Series,Merlot,2020,4,tinto,sí,2026,pasándose,media,sí,no,,"Cumple el criterio, pero quedó fuera por el tope de 6. Pasa a la 2.ª revisión."
+P1-02,5,ambas,Cono Sur,Bicicleta,Viognier,2022,2,blanco,sí,2024,pasándose,alta,sí,sí,1,"Probablemente ya pasado. Abrir y probar; si está oxidado, sirve para cocinar."
+P1-02,6,ambas,Viña Leyda,Reserva,Pinot Noir,2021,3,tinto,sí,2026,pasándose,media,sí,no,,"Cumple el criterio, pero quedó fuera por el tope de 6. Pasa a la 2.ª revisión."
+P1-02,7,ambas,Ventisquero,Grey,Carmenère,2018,2,tinto,sí,2027,decae <1 año,alta,sí,sí,5,"En su mejor momento. Él dijo que las guarda para una ocasión: esta es la ventana. Se prioriza sobre el Merlot por valor para la persona."
+P1-02,8,ambas,Viña Tarapacá,Gran Reserva Etiqueta Negra,Cabernet Sauvignon,2018,2,tinto,sí,2027,decae <1 año,media,no,sí,6,"Igual que las Grey: guardadas para una ocasión especial, y ya en su punto."
+P1-02,9,ambas,Concha y Toro,Don Melchor,Cabernet Sauvignon,2017,1,tinto,sí,2035,guardar,alta,sí,no,,
+P1-02,10,ambas,Montes,Montes Alpha M,Mezcla tinta,2016,1,tinto,sí,2032,en ventana,alta,sí,no,,
+P1-02,11,ambas,Concha y Toro,Marqués de Casa Concha,Cabernet Sauvignon,2021,6,tinto,sí,2030,en ventana,alta,sí,no,,
+P1-02,12,ambas,Santa Carolina,Reserva de Familia,Cabernet Sauvignon,2021,6,tinto,sí,2029,en ventana,alta,sí,no,,
+P1-02,13,ambas,Viu Manent,Gran Reserva,Carmenère,2022,6,tinto,sí,2029,en ventana,media,sí,no,,
+P1-02,14,ambas,Catena Zapata,Malbec Argentino,Malbec,2019,2,tinto,sí,2032,guardar,media,no,no,,
+P1-02,15,ambas,Trapiche,Reserva,Malbec,2023,6,tinto,sí,2028,en ventana,media,sí,no,,
+P1-02,16,ambas,Errázuriz,Don Maximiano Founder's Reserve,Mezcla tinta,2018,1,tinto,sí,2034,guardar,alta,sí,no,,
+P1-02,17,ambas,Viña Aquitania,Lazuli,Cabernet Sauvignon,2018,2,tinto,sí,2031,en ventana,media,no,no,,
+P1-02,18,ambas,Cousiño Macul,Antiguas Reservas,Cabernet Sauvignon,2021,6,tinto,sí,2030,en ventana,alta,sí,no,,
+P1-02,19,ambas,Odfjell,Orzada,Carignan,2020,3,tinto,sí,2029,en ventana,media,sí,no,,
+P1-02,20,ambas,,,,,4,tinto,no,,—,,,no,,"Al fondo del mueble; solo se ven las cápsulas. Su planilla de 2023 no ayuda a saber cuáles son."
+P1-03,1,foto,Concha y Toro,Marqués de Casa Concha,Cabernet Sauvignon,2023,3,tinto,sí,2031,guardar,alta,sí,no,,
+P1-03,2,foto,Santa Rita,Medalla Real Gran Reserva,Carmenère,2023,3,tinto,sí,2030,en ventana,alta,sí,no,,
+P1-03,3,foto,Montes,Montes Alpha,Cabernet Sauvignon,2022,2,tinto,sí,2031,guardar,alta,sí,no,,
+P1-03,4,foto,Errázuriz,Max Reserva,Cabernet Sauvignon,2023,3,tinto,sí,2029,en ventana,media,sí,no,,
+P1-03,5,foto,Viña Leyda,Single Vineyard Kadun,Sauvignon Blanc,2025,2,blanco,sí,2028,en ventana,media,sí,no,,"La más cercana; mirar en la próxima revisión."
+P1-03,6,foto,Casa Marín,Cipreses,Sauvignon Blanc,2024,1,blanco,sí,2029,en ventana,media,sí,no,,
+P1-03,7,foto,Koyle,Gran Reserva,Carmenère,2023,3,tinto,sí,2029,en ventana,media,sí,no,,
+P1-03,8,foto,De Martino,Legado,Cabernet Sauvignon,2022,2,tinto,sí,2029,en ventana,media,sí,no,,
+P1-03,9,foto,Ventisquero,Grey,Pinot Noir,2023,2,tinto,sí,2028,en ventana,media,sí,no,,"Segunda más cercana."
+P1-03,10,foto,,,,,7,mixto,no,,—,,,no,,"Fotos movidas: se distinguen 5 tintos y 2 blancos, pero no el productor ni el año."
+P1-04,1,lista,Errázuriz,Aconcagua Costa,Chardonnay,2021,2,blanco,sí,2026,pasándose,media,sí,sí,1,"Chardonnay costero; con 5 años ya está en su techo."
+P1-04,2,lista,Casa Silva,Gran Terroir de los Andes,Carmenère,2021,3,tinto,sí,2028,en ventana,media,sí,no,,
+P1-04,3,lista,Concha y Toro,Marqués de Casa Concha,Chardonnay,2022,2,blanco,sí,2027,decae <1 año,media,sí,sí,3,"En su mejor momento ahora; durante 2027 empieza a perder tensión."
+P1-04,4,lista,Lapostolle,Cuvée Alexandre,Cabernet Sauvignon,2019,3,tinto,sí,2029,en ventana,alta,sí,no,,
+P1-04,5,lista,Tabalí,Talinay,Pinot Noir,2021,2,tinto,sí,2027,decae <1 año,media,sí,sí,2,"Pinot de Limarí, ya en su punto."
+P1-04,6,lista,Montes,Purple Angel,Carmenère,2019,1,tinto,sí,2032,guardar,alta,sí,no,,
+P1-04,7,lista,Santa Rita,Casa Real,Cabernet Sauvignon,2017,1,tinto,sí,2035,guardar,alta,sí,no,,
+P1-04,8,lista,Viña Leyda,Lot 21,Pinot Noir,2020,1,tinto,sí,2028,en ventana,media,sí,no,,
+P1-04,9,lista,Clos des Fous,Cauquenina,Mezcla tinta,2021,2,tinto,sí,2029,en ventana,baja,no,no,,
+P1-04,10,lista,Concha y Toro,Casillero del Diablo Reserva,Carmenère,s/i,6,tinto,sí,,—,baja,sí,no,,"Su lista no dice el año. Si son de 2023 o después aguantan hasta 2027–2028; si son anteriores, habría que abrirlas. Se pregunta en M3."
+P1-04,11,lista,Santa Carolina,Reserva,Cabernet Sauvignon,s/i,6,tinto,sí,,—,baja,sí,no,,"Mismo caso: sin año no se puede decir."
+P1-04,12,lista,Miguel Torres,Santa Digna Estelado Rosé,País (espumante),s/a,3,espumante,sí,2027,en ventana,baja,sí,no,,"Sin añada ni fecha de compra."
+P1-04,13,lista,Garcés Silva,Amayna,Sauvignon Blanc,2023,2,blanco,sí,2028,en ventana,media,sí,no,,
+P1-04,14,lista,Undurraga,T.H.,Carignan,2020,2,tinto,sí,2029,en ventana,media,sí,no,,
+P1-04,15,lista,Emiliana,Gê,Mezcla tinta,2018,1,tinto,sí,2032,guardar,media,sí,no,,
+P1-04,16,lista,Errázuriz,Max Reserva,Syrah,2022,6,tinto,sí,2028,en ventana,media,sí,no,,
+P1-04,17,lista,Cono Sur,20 Barrels,Cabernet Sauvignon,2020,2,tinto,sí,2030,en ventana,media,sí,no,,
+P1-04,18,lista,Pérez Cruz,Liguai,Mezcla tinta,2019,2,tinto,sí,2030,en ventana,media,no,no,,
+P1-04,19,lista,Viña Polkura,Polkura,Malbec,2022,3,tinto,sí,2029,en ventana,baja,no,no,,
+P1-04,20,lista,Viu Manent,Gran Reserva,Malbec,2022,3,tinto,sí,2028,en ventana,media,sí,no,,
+P1-04,21,lista,Antiyal,Kuyen,Mezcla tinta,2019,2,tinto,sí,2030,en ventana,media,no,no,,
+P1-05,1,foto,Concha y Toro,Marqués de Casa Concha,Cabernet Sauvignon,2022,2,tinto,sí,2030,en ventana,alta,sí,no,,
+P1-05,2,foto,Montes,Montes Alpha,Syrah,2022,2,tinto,sí,2030,en ventana,alta,sí,no,,
+P1-05,3,foto,Viña Leyda,Reserva,Chardonnay,2023,2,blanco,sí,2026,pasándose,alta,sí,sí,1,"Chardonnay de entrada sin barrica; su mejor momento ya pasó o está pasando. Ideal para este verano."
+P1-05,4,foto,J. Bouchon,Mingre,Mezcla tinta,2020,1,tinto,sí,2030,en ventana,media,no,no,,
+P1-05,5,foto,De Martino,Viejas Tinajas,Cinsault,2023,2,tinto,sí,2028,en ventana,baja,sí,no,,"Mirar en la próxima revisión."
+P1-05,6,foto,Santa Rita,Medalla Real Gran Reserva,Sauvignon Blanc,2025,3,blanco,sí,2028,en ventana,media,sí,no,,
+P1-05,7,foto,Viña Kingston,Cariblanco,Sauvignon Blanc,2024,2,blanco,sí,2028,en ventana,media,no,no,,
+P1-05,8,foto,Errázuriz,Max Reserva,Cabernet Sauvignon,2022,4,tinto,sí,2029,en ventana,media,sí,no,,
+P1-05,9,foto,Ventisquero,Grey Glacier,Chardonnay,2023,1,blanco,sí,2028,en ventana,media,sí,no,,
+P1-05,10,foto,Catena,Catena,Malbec,2022,3,tinto,sí,2029,en ventana,media,sí,no,,
+P1-06,1,foto,Concha y Toro,Casillero del Diablo Reserva,Sauvignon Blanc,2023,3,blanco,sí,2025,pasándose,alta,sí,sí,1,"Sauvignon de entrada con casi 4 años; ya perdió lo mejor. Abrir pronto, idealmente con algo fresco."
+P1-06,2,foto,Viña San Pedro,1865 Selected Vineyards,Carmenère,2020,2,tinto,sí,2027,decae <1 año,media,sí,sí,2,"En su punto; no gana nada guardándolo más."
+P1-06,3,foto,Montes,Montes Alpha,Cabernet Sauvignon,2021,3,tinto,sí,2030,en ventana,alta,sí,no,,
+P1-06,4,foto,Santa Carolina,Reserva de Familia,Carmenère,2022,3,tinto,sí,2029,en ventana,alta,sí,no,,
+P1-06,5,foto,Cono Sur,Single Vineyard,Syrah,2021,2,tinto,sí,2029,en ventana,media,sí,no,,
+P1-06,6,foto,Errázuriz,Max Reserva,Carmenère,2023,6,tinto,sí,2029,en ventana,media,sí,no,,
+P1-06,7,foto,Viu Manent,Secreto,Malbec,2023,4,tinto,sí,2028,en ventana,media,sí,no,,
+P1-06,8,foto,Zuccardi,Q,Malbec,2021,2,tinto,sí,2029,en ventana,media,sí,no,,
+P1-06,9,foto,Lapostolle,Cuvée Alexandre,Chardonnay,2023,2,blanco,sí,2028,en ventana,media,sí,no,,
+P1-06,10,foto,,,,,2,tinto,no,,—,,,no,,"Fotografiadas por la contraetiqueta, en inglés; probablemente importadas."
+P1-06,11,foto,Miguel Torres,Manso de Velasco,Cabernet Sauvignon,2019,2,tinto,sí,2032,guardar,alta,sí,no,,
+P1-07,1,ambas,Rogue Vine,Grand Itata Tinto,Mezcla tinta,2020,3,tinto,sí,2027,decae <1 año,baja,no,sí,4,"Productor chico de Itata; estimo por estilo. Confianza baja."
+P1-07,2,ambas,Roberto Henríquez,Rivera del Notro Blanco,Mezcla blanca,2021,2,blanco,sí,2026,pasándose,baja,no,sí,2,"Blanco natural, poca intervención; estos vinos son impredecibles. Mejor no arriesgar."
+P1-07,3,ambas,A Los Viñateros Bravos,Volcánico,País,2022,2,tinto,sí,2026,pasándose,baja,sí,sí,3,"País para tomar joven."
+P1-07,4,ambas,Cacique Maravilla,Pipeño,País,2023,2,tinto,sí,2025,pasándose,media,sí,sí,1,"El pipeño es del año; con 3 años ya está pasado o casi."
+P1-07,5,ambas,Maturana Wines,Naranjo,Torontel,2022,1,blanco,sí,2028,en ventana,baja,no,no,,"Vino naranjo con contacto con pieles; aguanta más que un blanco normal."
+P1-07,6,ambas,Pedro Parra,Imaginador,Cinsault,2021,2,tinto,sí,2029,en ventana,media,sí,no,,
+P1-07,7,ambas,Gillmore,Vigno,Carignan,2018,1,tinto,sí,2030,en ventana,media,sí,no,,
+P1-07,8,ambas,Garage Wine Co.,Lot,Carignan,2019,2,tinto,sí,2031,guardar,media,sí,no,,
+P1-07,9,ambas,Concha y Toro,Marqués de Casa Concha,Cabernet Sauvignon,2021,6,tinto,sí,2030,en ventana,alta,sí,no,,
+P1-07,10,ambas,Santa Rita,Medalla Real Gran Reserva,Cabernet Sauvignon,2022,6,tinto,sí,2029,en ventana,alta,sí,no,,
+P1-07,11,ambas,Montes,Montes Alpha,Carmenère,2022,6,tinto,sí,2029,en ventana,alta,sí,no,,
+P1-07,12,ambas,Casa Marín,Cartagena,Sauvignon Blanc,2023,3,blanco,sí,2028,en ventana,media,sí,no,,
+P1-07,13,ambas,De Martino,Legado,Carmenère,2022,6,tinto,sí,2029,en ventana,media,sí,no,,
+P1-07,14,ambas,Clos des Fous,Pour ma Gueule,Mezcla tinta,2020,2,tinto,sí,2028,en ventana,baja,no,no,,
+P1-07,15,ambas,Lapostolle,Clos Apalta,Mezcla tinta,2017,1,tinto,sí,2034,guardar,alta,sí,no,,
+P1-07,16,ambas,Errázuriz,Max Reserva,Cabernet Sauvignon,2022,6,tinto,sí,2029,en ventana,media,sí,no,,
+P1-07,17,ambas,Koyle,Costa La Flor,Sauvignon Blanc,2024,3,blanco,sí,2028,en ventana,media,sí,no,,
+P1-07,18,ambas,Cono Sur,20 Barrels,Pinot Noir,2021,2,tinto,sí,2028,en ventana,media,sí,no,,
+P1-07,19,ambas,J. Bouchon,País Salvaje,País,2025,4,tinto,sí,2027,en ventana,media,sí,no,,"Está fresco y así se mantiene todo 2027; no necesita abrirse en los próximos 3 meses. Mirar en la 2.ª revisión."
+P1-07,20,ambas,,,,,5,mixto,no,,—,,,no,,"Cajas cerradas en el clóset; ella dice que son ""naturales de una feria""."
+P1-07,21,ambas,Haras de Pirque,Albis,Mezcla tinta,2015,1,tinto,sí,2030,en ventana,media,sí,no,,
+P1-07,22,ambas,Viña Echeverría,Brut,Chardonnay y Pinot Noir (espumante),s/a,2,espumante,sí,2027,en ventana,baja,no,no,,
+P1-08,1,lista,Concha y Toro,Casillero del Diablo Reserva,Carmenère,2021,4,tinto,sí,2026,pasándose,media,sí,sí,1,"Reserva de entrada con 5 años; abrir este verano."
+P1-08,2,lista,Santa Rita,Medalla Real Gran Reserva,Cabernet Sauvignon,2022,3,tinto,sí,2029,en ventana,alta,sí,no,,
+P1-08,3,lista,Montes,Montes Alpha,Pinot Noir,2022,2,tinto,sí,2028,en ventana,media,sí,no,,
+P1-08,4,lista,Viña Leyda,Single Vineyard Garuma,Sauvignon Blanc,2024,2,blanco,sí,2028,en ventana,alta,sí,no,,
+P1-08,5,lista,Viña Carmen,Gran Reserva,Petite Sirah,2021,2,tinto,sí,2029,en ventana,media,sí,no,,
+P1-08,6,lista,Concha y Toro,Marqués de Casa Concha,Merlot,2020,2,tinto,sí,2028,en ventana,media,sí,no,,
+P1-08,7,lista,Santa Ema,Gran Reserva,Merlot,2019,2,tinto,sí,2027,decae <1 año,media,no,sí,2,"Merlot de 7 años en su punto; desde 2027 empieza a bajar."
+P1-08,8,lista,Errázuriz,Max Reserva,Cabernet Sauvignon,2023,6,tinto,sí,2029,en ventana,media,sí,no,,
+P1-08,9,lista,Viu Manent,Late Harvest,Semillón,2020,1,dulce,sí,2030,en ventana,media,sí,no,,"Media botella (375 ml)."
+P1-08,10,lista,Catena,Catena,Malbec,2023,2,tinto,sí,2029,en ventana,media,sí,no,,

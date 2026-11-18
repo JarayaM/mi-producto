@@ -43,3 +43,15 @@ Primera revisión de evidencia (cubre del 2026-10-13 al 2026-10-27).
   **AI assumed:** Carolina era `primary`.
   **Human decided:** Cambiarla a `secondary`.
   **Why:** Calzan 5/30 de quienes compran en la encuesta, 4 de ellos de la red del fundador, y ninguno de los 6 entrevistados que compran. Teresa Ibáñez representa mejor la oportunidad priorizada.
+
+## 2026-11-12
+
+- **Artifact:** product/solutions/2026-11-02-1857-perder-botellas-sin-abrir-a-tiempo.md (A4, `revision-de-cava`)
+  **AI proposed:** Revisión dos veces al año, con lista para los próximos 6 meses. En T1, medir a las 8 semanas el compromiso de agendar la segunda revisión como indicador adelantado.
+  **Human decided:** Revisión cada 3 meses, con lista para los próximos 3 meses.
+  **Why:** Permite que T1 mida la creencia 12 completa (la segunda revisión real ocurre dentro de la prueba) y hace la lista más concreta. Riesgo asumido: listas casi vacías por la baja frecuencia de la pérdida; T1 lo registra. Cambio hecho antes de probar A4, así que no invalida resultados.
+
+- **Artifact:** product/tests/2026-11-12-1239-perder-botellas-sin-abrir-a-tiempo.md (T3)
+  **AI proposed:** Pasa si al menos 80% de las estimaciones cae dentro de ±1 año del experto en total y al menos 70% en vinos chilenos de productores chicos.
+  **Human decided:** 75% en total y 60% en el subconjunto chileno.
+  **Why:** Decisión del fundador al fijar los umbrales, antes de correr la prueba.

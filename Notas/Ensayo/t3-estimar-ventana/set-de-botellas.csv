@@ -1,0 +1,31 @@
+id,productor,nombre_del_vino,cepa_o_mezcla,cosecha,pais,region_o_valle,tipo,chileno_productor_chico,origen,persona_que_la_tiene,foto,notas
+B01,Viña Gillmore,Hacedor de Mundos,Cabernet Franc,2018,Chile,Maule (Loncomilla),tinto,sí,entrevista,Marcela (entrevista),fotos/B01.jpg,Comprada en la viña en 2021.
+B02,Viña González Bastías,Matorral,País,2021,Chile,Maule (secano interior),tinto,sí,entrevista,Marcela (entrevista),fotos/B02.jpg,Comprada en la bodega en 2023.
+B03,Garage Wine Co.,Truquilemu Vineyard,Carignan,2017,Chile,Maule (Truquilemu),tinto,sí,entrevista,Marcela (entrevista),fotos/B03.jpg,
+B04,Erasmo,Erasmo,"Mezcla tinta (Cabernet Sauvignon, Cabernet Franc, Merlot)",2013,Chile,Maule (Caliboro),tinto,sí,entrevista,Marcela (entrevista),fotos/B04.jpg,Comprada en la viña en 2019.
+B05,J. Bouchon,Mingre,Mezcla tinta,2019,Chile,Maule (Mingre),tinto,no,entrevista,Marcela (entrevista),fotos/B05.jpg,"Dudoso: viña familiar que no es de un grupo grande, pero otras líneas suyas se venden en supermercados. Se marca no, según la regla."
+B06,Pedro Parra y Familia,Imaginador,Cinsault,2019,Chile,Itata,tinto,sí,encuesta,R21,fotos/B06.jpg,
+B07,Concha y Toro,Marqués de Casa Concha,Cabernet Sauvignon,2018,Chile,Maipo (Puente Alto),tinto,no,encuesta,R21,fotos/B07.jpg,
+B08,Viña Kingston,Tobiano,Pinot Noir,2021,Chile,Casablanca,tinto,sí,entrevista,Felipe (entrevista),fotos/B08.jpg,Botella acostada: la cosecha se leyó en la contraetiqueta.
+B09,Cono Sur,Bicicleta,Riesling,2023,Chile,Bío Bío,blanco,no,entrevista,Felipe (entrevista),fotos/B09.jpg,
+B10,A Los Viñateros Bravos,Granítico,Cinsault,2020,Chile,Itata (Guarilihue),tinto,sí,encuesta,R24,fotos/B10.jpg,
+B11,Roberto Henríquez,Molino del Ciego,Semillón,2021,Chile,Itata,blanco,sí,encuesta,R24,fotos/B11.jpg,
+B12,Rogue Vine,Grand Itata Blanco,"Moscatel, Riesling y Semillón",2022,Chile,Itata,blanco,sí,encuesta,R24,fotos/B12.jpg,
+B13,La Rioja Alta,Viña Ardanza Reserva,Tempranillo y Garnacha,2016,España,Rioja,tinto,no,entrevista,Ernesto (entrevista),fotos/B13.jpg,Comprada en un viaje.
+B14,A to Z Wineworks,Pinot Noir,Pinot Noir,2022,Estados Unidos,Oregon,tinto,no,entrevista,Ernesto (entrevista),fotos/B14.jpg,
+B15,Santa Rita,Casa Real,Cabernet Sauvignon,2015,Chile,Maipo (Alto Jahuel),tinto,no,encuesta,R50,fotos/B15.jpg,
+B16,Montes,Montes Alpha,Carmenère,2020,Chile,Colchagua,tinto,no,encuesta,R50,fotos/B16.jpg,
+B17,Juan Gil,4 Meses,Monastrell,2022,España,Jumilla,tinto,no,entrevista,Inés (entrevista),fotos/B17.jpg,
+B18,Martín Códax,Martín Códax,Albariño,2024,España,Rías Baixas,blanco,no,entrevista,Inés (entrevista),fotos/B18.jpg,
+B19,Lapostolle,Clos Apalta,"Mezcla tinta (Carmenère, Cabernet Sauvignon, Merlot)",2016,Chile,Colchagua (Apalta),tinto,no,encuesta,R35,fotos/B19.jpg,Comprada en sociedad con su hermano.
+B20,Errázuriz,Aconcagua Costa,Chardonnay,2022,Chile,Aconcagua (costa),blanco,no,encuesta,R35,fotos/B20.jpg,
+B21,Rutini,Rutini Colección,Malbec,2020,Argentina,Mendoza (Valle de Uco),tinto,no,entrevista,Hernán (entrevista),fotos/B21.jpg,Fotos enviadas por su hijo.
+B22,El Esteco,Don David Reserve,Torrontés,2024,Argentina,Salta (Cafayate),blanco,no,entrevista,Hernán (entrevista),fotos/B22.jpg,Fotos enviadas por su hijo.
+B23,Concha y Toro,Casillero del Diablo Reserva,Sauvignon Blanc,2021,Chile,Valle Central,blanco,no,encuesta,R18,fotos/B23.jpg,Estaba al fondo del mueble.
+B24,Montes,Cherub,Syrah (rosado),2024,Chile,Colchagua,rosado,no,encuesta,R18,fotos/B24.jpg,
+B25,L.A. Cetto,Reserva Privada,Nebbiolo,2019,México,Baja California (Valle de Guadalupe),tinto,no,entrevista,Verónica (entrevista),fotos/B25.jpg,"Estuvo en la cava eléctrica que falló en 2024. No se le dice a la IA ni al sommelier, porque el supuesto de guarda es común."
+B26,Cacique Maravilla,Pipeño,País,2024,Chile,Bío Bío (Yumbel),tinto,sí,encuesta,R33,fotos/B26.jpg,"Botella de litro, comprada en una feria en Concepción."
+B27,Viu Manent,Gran Reserva,Malbec,2021,Chile,Colchagua,tinto,no,encuesta,R37,fotos/B27.jpg,
+B28,Laberinto,Cenizas de Laberinto,Sauvignon Blanc,2022,Chile,Maule (Colbún),blanco,sí,carta-restaurante,restaurante,fotos/B28.jpg,El sommelier confirmó el 2026-11-26 que no lo seleccionó ni lo cató.
+B29,Viña Villalobos,Reserva,Carignan,2020,Chile,Colchagua (Lolol),tinto,sí,carta-restaurante,restaurante,fotos/B29.jpg,El sommelier confirmó el 2026-11-26 que no lo seleccionó ni lo cató.
+B30,Undurraga,T.H. Terroir Hunter,Sauvignon Blanc,2023,Chile,Leyda,blanco,no,carta-restaurante,restaurante,fotos/B30.jpg,Reemplaza la botella de R37 que no tenía cosecha legible. El sommelier confirmó el 2026-11-26 que no lo seleccionó ni lo cató.

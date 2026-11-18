@@ -1,0 +1,10 @@
+id_participante,canal,tramo_botellas,fecha_acepto,fecha_recibe_cava,formato_cava,botellas_identificadas,botellas_no_identificadas,fecha_entrega_lista,botellas_en_lista,fecha_m4,dudas_m4,fecha_m5,mando_material_2da,fecha_envio_2da,dias_hasta_envio_2da,fecha_m6,botellas_lista_abiertas,cumple_a,cumple_b,completo_la_prueba,notas
+P1-01,CAV | Facebook | red del fundador | otro,21–50 | 51–100,,,fotos | lista | ambas,,,,0 a 6,,,,sí | no,,,,,"sí si abrió ≥1 de la lista antes de la 2.ª revisión","sí si mandó foto o lista ≤14 días desde M5",sí | no,
+P1-02,,,,,,,,,,,,,,,,,,,,,
+P1-03,,,,,,,,,,,,,,,,,,,,,
+P1-04,,,,,,,,,,,,,,,,,,,,,
+P1-05,,,,,,,,,,,,,,,,,,,,,
+P1-06,,,,,,,,,,,,,,,,,,,,,
+P1-07,,,,,,,,,,,,,,,,,,,,,
+P1-08,,,,,,,,,,,,,,,,,,,,,
+RESUMEN,,,,,,,,,,,,,,,,,,,,,"Pasa si ≥4/8 cumplen a y b. change si ≥4/8 cumplen a pero <4/8 cumplen b (si además ≥5/8 listas tenían 0–1 botellas: probar cada 6 meses o frecuencia elegida). discard si ≤1/8 cumple a. inconclusive si <6 completan."

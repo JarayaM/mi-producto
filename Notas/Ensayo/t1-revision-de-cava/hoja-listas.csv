@@ -1,0 +1,25 @@
+id_participante,n_en_lista,productor,vino,cosecha,cantidad_que_tiene,motivo,abrio,fecha_aproximada_apertura,antes_de_la_2da_revision,cita_textual
+P1-01,1,Viña Leyda,Reserva Sauvignon Blanc,2023,2,"Su gracia es la fruta fresca y ya la está perdiendo: ábrelo este verano.",sí,2026-12 (mediados),sí,"El Leyda lo abrimos con unas machas a mediados de diciembre, rico todavía."
+P1-01,2,Concha y Toro,Casillero del Diablo Reserva Carmenère,2021,6,"Con 5 años está al límite; mejor tomarlas este verano.",sí,2026-12-24,sí,"Del Casillero abrimos dos en Navidad y otra para el asado de Año Nuevo."
+P1-01,3,Miguel Torres,Santa Digna Estelado Rosé,s/a,2,"Espumante sin añada que llegó en 2024: se toma dentro de 1–2 años de comprado.",sí,2026-12-31,sí,"El espumante rosado fue para el 31, obvio."
+P1-01,4,J. Bouchon,País Salvaje,2024,2,"Tinto liviano para tomar joven y fresco; no gana nada guardándolo.",no,,,"El País Salvaje no, lo tengo para un picnic que todavía no pasa."
+P1-01,5,Errázuriz,Max Reserva Carmenère,2020,3,"Está en su mejor momento y desde fines de 2027 empieza a perder fruta.",no,,,
+P1-02,1,Cono Sur,Bicicleta Viognier,2022,2,"Probablemente ya pasado: ábrelo y prueba; si está oxidado, sirve para cocinar.",sí,2026-12-06,sí,"El Viognier estaba muerto, tenían razón. Terminó en un risotto."
+P1-02,2,Santa Rita,Medalla Real Gran Reserva Chardonnay,2020,3,"Con 6 años y sin cava ya debería ir en bajada.",sí,2027-02 (comienzos),sí,"Uno de los Chardonnay en febrero, en la playa."
+P1-02,3,Concha y Toro,Casillero del Diablo Reserva Cabernet Sauvignon,2019,5,"Siete años para un Reserva de entrada: abrir ya, y conviene tomarlas seguidas.",sí,2027-01,sí,"Los Casillero se fueron casi todos en los asados de enero, quedan dos."
+P1-02,4,Errázuriz,Max Reserva Carmenère,2019,4,"Debería estar en meseta; mejor no esperar más.",no,,,
+P1-02,5,Ventisquero,Grey Carmenère,2018,2,"Está en su mejor momento: si las guardas para una ocasión, esta es la ventana.",no,,,"Las Grey sigo esperando la ocasión. Lo sé, lo sé."
+P1-02,6,Viña Tarapacá,Gran Reserva Etiqueta Negra Cabernet Sauvignon,2018,2,"Guardadas para una ocasión especial, y ya están en su punto.",no,,,
+P1-03,0,,,,,"Lista vacía: ninguna botella cumplía el criterio. Se mencionaron Leyda Kadun 2025 y Ventisquero Grey Pinot Noir 2023 como las más cercanas.",,,,
+P1-04,1,Errázuriz,Aconcagua Costa Chardonnay,2021,2,"Chardonnay costero con 5 años: ya está en su techo.",sí,2026-12-24,sí,"El Aconcagua Costa fue para la cena de Navidad."
+P1-04,2,Tabalí,Talinay Pinot Noir,2021,2,"Pinot de Limarí que ya está en su punto.",sí,2027-01 (mediados),sí,"Un Talinay en enero, antes de irme al sur."
+P1-04,3,Concha y Toro,Marqués de Casa Concha Chardonnay,2022,2,"En su mejor momento; durante 2027 empieza a perder tensión.",no,,,
+P1-05,1,Viña Leyda,Reserva Chardonnay,2023,2,"Su mejor momento ya pasó o está pasando; ideal para este verano.",sí,2027-01-01,sí,"Sí, el chardonnay lo abrimos el 1 de enero con mi hermana, justamente por la lista."
+P1-06,1,Concha y Toro,Casillero del Diablo Reserva Sauvignon Blanc,2023,3,"Ya perdió lo mejor; ábrelo pronto, idealmente con algo fresco.",sí,2027-01 (mediados),sí,"[1.ª respuesta] Creo que una. [repregunta: ¿Te acuerdas cuál era?] El sauvignon, para un ceviche en enero."
+P1-06,2,Viña San Pedro,1865 Selected Vineyards Carmenère,2020,2,"En su punto; no gana nada guardándolo más.",no,,,
+P1-07,1,Cacique Maravilla,Pipeño,2023,2,"El pipeño es del año: con 3 años ya está pasado o casi.",no,,,"Ninguna. No se dio la ocasión: los naturales los quiero tomar con amigos que los aprecien, y en verano estuvimos todos repartidos."
+P1-07,2,Roberto Henríquez,Rivera del Notro Blanco,2021,2,"Blanco natural, impredecible con los años: mejor no arriesgar.",no,,,
+P1-07,3,A Los Viñateros Bravos,Volcánico País,2022,2,"País para tomar joven.",no,,,
+P1-07,4,Rogue Vine,Grand Itata Tinto,2020,3,"En su punto, aunque es un productor chico y la estimación es aproximada.",no,,,"Además, del Rogue Vine me dijeron en la feria que aguantaba como diez años, así que no sé."
+P1-08,1,Concha y Toro,Casillero del Diablo Reserva Carmenère,2021,4,"Reserva de entrada con 5 años: ábrelas este verano.",no sabe,,,"(sin respuesta a M4, M5 ni M6)"
+P1-08,2,Santa Ema,Gran Reserva Merlot,2019,2,"Merlot en su punto; desde 2027 empieza a bajar.",no sabe,,,"(sin respuesta a M4, M5 ni M6)"
