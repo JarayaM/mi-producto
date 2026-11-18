@@ -1,0 +1,31 @@
+id,productor,nombre_del_vino,cepa_o_mezcla,cosecha,pais,region_o_valle,tipo,foto,abrir_antes_de,confianza,conoce_el_vino,comentario
+B01,Viña Gillmore,Hacedor de Mundos,Cabernet Franc,2018,Chile,Maule (Loncomilla),tinto,fotos/B01.jpg,2027,baja,no,No lo he probado. Estimo por el productor y la cepa.
+B02,Viña González Bastías,Matorral,País,2021,Chile,Maule (secano interior),tinto,fotos/B02.jpg,2027,baja,no,"País de viña muy vieja, con más estructura que un pipeño. Sin cava, no más allá de 2027."
+B03,Garage Wine Co.,Truquilemu Vineyard,Carignan,2017,Chile,Maule (Truquilemu),tinto,fotos/B03.jpg,2029,media,sí,"Lo conozco. Aguanta, pero 2017 fue un año muy caluroso y sin cava no lo estiraría."
+B04,Erasmo,Erasmo,"Mezcla tinta (Cabernet Sauvignon, Cabernet Franc, Merlot)",2013,Chile,Maule (Caliboro),tinto,fotos/B04.jpg,2027,media,sí,"Sale al mercado con varios años de crianza. Con 13 años y sin cava, yo no esperaría más."
+B05,J. Bouchon,Mingre,Mezcla tinta,2019,Chile,Maule (Mingre),tinto,fotos/B05.jpg,2029,media,sí,
+B06,Pedro Parra y Familia,Imaginador,Cinsault,2019,Chile,Itata,tinto,fotos/B06.jpg,2027,media,sí,"Muy rico joven. Es Cinsault de granito y aguanta, pero sin cava a los 8 años ya va en bajada."
+B07,Concha y Toro,Marqués de Casa Concha,Cabernet Sauvignon,2018,Chile,Maipo (Puente Alto),tinto,fotos/B07.jpg,2028,alta,sí,
+B08,Viña Kingston,Tobiano,Pinot Noir,2021,Chile,Casablanca,tinto,fotos/B08.jpg,2027,media,sí,
+B09,Cono Sur,Bicicleta,Riesling,2023,Chile,Bío Bío,blanco,fotos/B09.jpg,2026,media,sí,"Riesling de entrada. Aguanta algo más que un Sauvignon, pero no es para guardar."
+B10,A Los Viñateros Bravos,Granítico,Cinsault,2020,Chile,Itata (Guarilihue),tinto,fotos/B10.jpg,2027,media,sí,
+B11,Roberto Henríquez,Molino del Ciego,Semillón,2021,Chile,Itata,blanco,fotos/B11.jpg,2027,baja,no,"Semillón de viña vieja. Estos blancos aguantan más que un blanco de entrada, pero confianza baja."
+B12,Rogue Vine,Grand Itata Blanco,"Moscatel, Riesling y Semillón",2022,Chile,Itata,blanco,fotos/B12.jpg,2026,baja,no,
+B13,La Rioja Alta,Viña Ardanza Reserva,Tempranillo y Garnacha,2016,España,Rioja,tinto,fotos/B13.jpg,2031,media,sí,"Reserva clásica: en buena cava dura mucho, en una casa menos."
+B14,A to Z Wineworks,Pinot Noir,Pinot Noir,2022,Estados Unidos,Oregon,tinto,fotos/B14.jpg,2026,baja,no,Pinot de Oregon de entrada. Estimo por el estilo.
+B15,Santa Rita,Casa Real,Cabernet Sauvignon,2015,Chile,Maipo (Alto Jahuel),tinto,fotos/B15.jpg,2033,alta,sí,"2015 es de las grandes añadas de Casa Real. Si está en un lugar fresco, aguanta."
+B16,Montes,Montes Alpha,Carmenère,2020,Chile,Colchagua,tinto,fotos/B16.jpg,2027,alta,sí,
+B17,Juan Gil,4 Meses,Monastrell,2022,España,Jumilla,tinto,fotos/B17.jpg,2026,media,no,
+B18,Martín Códax,Martín Códax,Albariño,2024,España,Rías Baixas,blanco,fotos/B18.jpg,2026,alta,sí,
+B19,Lapostolle,Clos Apalta,"Mezcla tinta (Carmenère, Cabernet Sauvignon, Merlot)",2016,Chile,Colchagua (Apalta),tinto,fotos/B19.jpg,2033,alta,sí,
+B20,Errázuriz,Aconcagua Costa,Chardonnay,2022,Chile,Aconcagua (costa),blanco,fotos/B20.jpg,2027,media,sí,
+B21,Rutini,Rutini Colección,Malbec,2020,Argentina,Mendoza (Valle de Uco),tinto,fotos/B21.jpg,2027,media,sí,
+B22,El Esteco,Don David Reserve,Torrontés,2024,Argentina,Salta (Cafayate),blanco,fotos/B22.jpg,2026,alta,sí,
+B23,Concha y Toro,Casillero del Diablo Reserva,Sauvignon Blanc,2021,Chile,Valle Central,blanco,fotos/B23.jpg,2023,alta,sí,"Ya pasó. Si se abre, que sea para cocinar."
+B24,Montes,Cherub,Syrah (rosado),2024,Chile,Colchagua,rosado,fotos/B24.jpg,2026,alta,sí,
+B25,L.A. Cetto,Reserva Privada,Nebbiolo,2019,México,Baja California (Valle de Guadalupe),tinto,fotos/B25.jpg,2027,baja,no,"No conozco vinos mexicanos. Nebbiolo de clima cálido, estimo por el estilo."
+B26,Cacique Maravilla,Pipeño,País,2024,Chile,Bío Bío (Yumbel),tinto,fotos/B26.jpg,2026,media,sí,
+B27,Viu Manent,Gran Reserva,Malbec,2021,Chile,Colchagua,tinto,fotos/B27.jpg,2027,media,sí,
+B28,Laberinto,Cenizas de Laberinto,Sauvignon Blanc,2022,Chile,Maule (Colbún),blanco,fotos/B28.jpg,2027,baja,no,"Está en la carta, pero no lo elegí ni lo he probado. Sauvignon con mucha acidez: puede durar, pero no lo estiraría."
+B29,Viña Villalobos,Reserva,Carignan,2020,Chile,Colchagua (Lolol),tinto,fotos/B29.jpg,2027,media,sí,"Ojo: lo caté en una feria de MOVI el año pasado, creo que otra cosecha. No lo elegí para la carta. Les aviso por si cuenta."
+B30,Undurraga,T.H. Terroir Hunter,Sauvignon Blanc,2023,Chile,Leyda,blanco,fotos/B30.jpg,2027,media,sí,

@@ -1,0 +1,32 @@
+id,chileno_productor_chico,origen,modelo,ia_abrir_antes_de,ia_confianza,ia_encontro_el_vino,ia_minutos,ia_costo,ia_fuentes,sommelier_abrir_antes_de,sommelier_confianza,sommelier_conoce_el_vino,diferencia_anios,dentro_de_1_anio,notas
+B01,sí,entrevista,Claude Sonnet 5.5 (API) + búsqueda web,2028,media,sí,2.1,0.14,"gillmore.cl (ficha técnica, cosecha 2016); descorchados.cl (puntaje sin ventana)",2027,baja,no,1,sí,La IA marcó sí aunque solo encontró la ficha de la cosecha 2016.
+B02,sí,entrevista,Claude Sonnet 5.5 (API) + búsqueda web,2026,baja,no,3.4,0.19,"wineanorak.com (visita al productor); decanter.com (nota cosecha 2019); wine.com (fichas 2019 y 2020)",2027,baja,no,-1,sí,La IA encontró otras cosechas y marcó no (en B01 marcó sí en un caso parecido).
+B03,sí,entrevista,Claude Sonnet 5.5 (API) + búsqueda web,2032,media,sí,6.8,0.32,"garagewineco.cl (ficha); timatkin.com (nota de otra cosecha, con ventana); vinous.com (reseña de pago, solo extracto)",2029,media,sí,3,no,"La corrida más larga y cara: 11 búsquedas, varias en páginas de pago."
+B04,sí,entrevista,Claude Sonnet 5.5 (API) + búsqueda web,2032,media,sí,2.9,0.16,"ficha del productor (potencial de guarda de 20 años); jamessuckling.com (nota de otra cosecha)",2027,media,sí,5,no,
+B05,no,entrevista,Claude Sonnet 5.5 (API) + búsqueda web,2030,media,sí,1.8,0.11,jbouchon.cl (ficha: guarda de 10 años o más),2029,media,sí,1,sí,Clasificación dudosa en el set: marcada no por la regla.
+B06,sí,encuesta,Claude Sonnet 5.5 (API) + búsqueda web,2029,media,sí,3.8,0.23,"pedroparra.cl; jancisrobinson.com (nota 2017/18, sin ventana); libertywines.co.uk (ficha de otro vino del productor)",2027,media,sí,2,no,
+B07,no,encuesta,Claude Sonnet 5.5 (API) + búsqueda web,2029,alta,sí,1.2,0.08,conchaytoro.com (ficha); jamessuckling.com (nota con ventana),2028,alta,sí,1,sí,
+B08,sí,entrevista,Claude Sonnet 5.5 (API) + búsqueda web,2027,media,sí,1.9,0.11,kingstonvineyards.com (ficha),2027,media,sí,0,sí,
+B09,no,entrevista,Claude Sonnet 5.5 (API) + búsqueda web,2026,alta,sí,0.9,0.05,conosur.com (ficha),2026,media,sí,0,sí,
+B10,sí,encuesta,Claude Sonnet 5.5 (API) + búsqueda web,2026,baja,sí,3.1,0.19,"thesourceimports.com (ficha del importador); decanter.com (nota cosecha 2021, sin ventana)",2027,media,sí,-1,sí,
+B11,sí,encuesta,Claude Sonnet 5.5 (API) + búsqueda web,2025,baja,no,2.7,0.17,fichas de importadores de otros vinos del productor,2027,baja,no,-2,no,
+B12,sí,encuesta,Claude Sonnet 5.5 (API) + búsqueda web,2025,baja,sí,2.2,0.13,"astorwines.com y vervewine.com (fichas de otras cosechas); decanter.com (nota 2022, sin ventana)",2026,baja,no,-1,sí,
+B13,no,entrevista,Claude Sonnet 5.5 (API) + búsqueda web,2034,alta,sí,1.4,0.09,"riojalta.com (ficha); decanter.com y winespectator.com (notas con ventana)",2031,media,sí,3,no,El sommelier anotó primero 2030–2032. Se le pidió un solo año el 2026-12-03 y respondió 2031 el 2026-12-04.
+B14,no,entrevista,Claude Sonnet 5.5 (API) + búsqueda web,2027,media,sí,1.1,0.07,atozwineworks.com (ficha),2026,baja,no,1,sí,
+B15,no,encuesta,Claude Sonnet 5.5 (API) + búsqueda web,2030,media,sí,2.0,0.11,"santarita.com (ficha); jamessuckling.com y robertparker.com (ventanas hasta 2035)",2033,alta,sí,-3,no,
+B16,no,encuesta,Claude Sonnet 5.5 (API) + búsqueda web,2028,alta,sí,1.0,0.06,monteswines.com (ficha),2027,alta,sí,1,sí,
+B17,no,entrevista,Claude Sonnet 5.5 (API) + búsqueda web,2026,media,sí,1.3,0.08,juangil.es (ficha),2026,media,no,0,sí,
+B18,no,entrevista,Claude Sonnet 5.5 (API) + búsqueda web,2026,alta,sí,0.8,0.05,martincodax.com (ficha),2026,alta,sí,0,sí,
+B19,no,encuesta,Claude Sonnet 5.5 (API) + búsqueda web,2036,media,sí,3.1,0.18,"lapostolle.com (ficha); robertparker.com y jamessuckling.com (ventanas hasta 2040)",2033,alta,sí,3,no,"La IA respondió primero ""Abrir antes de: 2035–2038"". Como no era un solo año, se repitió la pregunta una vez y respondió 2036. Minutos y costo suman las dos corridas."
+B20,no,encuesta,Claude Sonnet 5.5 (API) + búsqueda web,2027,media,sí,1.2,0.07,errazuriz.com (ficha),2027,media,sí,0,sí,
+B21,no,entrevista,Claude Sonnet 5.5 (API) + búsqueda web,2028,media,sí,1.1,0.07,rutiniwines.com (ficha),2027,media,sí,1,sí,
+B22,no,entrevista,Claude Sonnet 5.5 (API) + búsqueda web,2026,alta,sí,0.7,0.05,elesteco.com.ar (ficha),2026,alta,sí,0,sí,
+B23,no,encuesta,Claude Sonnet 5.5 (API) + búsqueda web,sin estimación,alta,sí,1.9,0.11,casillerodeldiablo.com (ficha),2023,alta,sí,,no,"La IA respondió ""Abrir antes de: ya, lo antes posible"". Se repitió la pregunta una vez y respondió ""Abrir antes de: inmediatamente"". Sin año: se anota sin estimación y cuenta como fuera, según el procedimiento. El sommelier puso un año que ya pasó. Minutos y costo suman las dos corridas."
+B24,no,encuesta,Claude Sonnet 5.5 (API) + búsqueda web,2026,alta,sí,0.8,0.05,monteswines.com (ficha),2026,alta,sí,0,sí,
+B25,no,entrevista,Claude Sonnet 5.5 (API) + búsqueda web,2029,media,sí,1.7,0.12,lacetto.mx (ficha); decanter.com (nota de otra cosecha),2027,baja,no,2,no,
+B26,sí,encuesta,Claude Sonnet 5.5 (API) + búsqueda web,2026,media,sí,1.5,0.10,fichas de importadores en EE. UU. (otras cosechas),2026,media,sí,0,sí,
+B27,no,encuesta,Claude Sonnet 5.5 (API) + búsqueda web,2027,media,sí,1.0,0.06,viumanent.cl (ficha),2027,media,sí,0,sí,
+B28,sí,carta-restaurante,Claude Sonnet 5.5 (API) + búsqueda web,2030,media,sí,2.4,0.14,"robertparker.com (extracto: entre los Sauvignon chilenos con más guarda); southamericawineguide.com (nota de cata)",2027,baja,no,3,no,
+B29,sí,carta-restaurante,Claude Sonnet 5.5 (API) + búsqueda web,2028,baja,no,3.0,0.20,"vinavillalobos.cl (página del productor, sin ficha de este vino)",2027,media,sí,1,sí,"El sommelier avisó al devolver la planilla que lo cató en una feria. Por la regla de origen no debía entrar (""ni catado""), pero el set ya estaba congelado. Queda en la hoja y se marca aquí."
+B30,no,carta-restaurante,Claude Sonnet 5.5 (API) + búsqueda web,2026,media,sí,1.1,0.06,undurraga.cl (ficha),2027,media,sí,-1,sí,
+RESUMEN,,,,,,,,,,,,,,,"Total: 20/30 = 66,7% con dentro_de_1_anio = sí (umbral 75%). Subconjunto chileno chico: 7/12 = 58,3% (umbral 60%). Minutos promedio por botella: 2,0 (59,9 en total). Costo promedio por botella: USD 0,12 (USD 3,55 en total). Aciertos con ia_encontro_el_vino = no: 2/3 = 66,7%."

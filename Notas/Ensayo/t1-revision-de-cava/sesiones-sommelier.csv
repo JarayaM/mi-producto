@@ -1,0 +1,13 @@
+fecha,id_participante,revision,minutos_sommelier,minutos_fundador_identificar,lineas_revisadas,botellas_evaluadas,lineas_confianza_baja,botellas_que_cumplian_criterio,lineas_en_lista,notas
+2026-11-30,P1-01,1.ª,40,45,24,54,2,5,5,"9 fotos. 3 botellas sin leer. El estado del espumante se dedujo de la fecha de despacho del club."
+2026-12-02,P1-02,1.ª,60,70,20,65,0,8,6,"Cava grande y desordenada; la planilla de 2023 no coincidía con las fotos. 8 cumplían el criterio: se discutió cómo priorizar con el tope de 6 (cercanía a pasarse vs. valor para la persona)."
+2026-12-02,P1-05,1.ª,20,20,10,22,1,1,1,
+2026-12-03,P1-03,1.ª,20,35,10,21,0,0,0,"El fundador pasó 35 min intentando leer fotos movidas. Lista vacía."
+2026-12-03,P1-04,1.ª,45,15,21,43,5,3,3,"12 botellas sin año en su lista: no se pudieron evaluar. Se decidió preguntar en M3 en vez de suponer la añada."
+2026-12-04,P1-08,1.ª,20,15,10,26,0,2,2,
+2026-12-07,P1-06,1.ª,25,30,11,29,0,2,2,
+2026-12-09,P1-07,1.ª,50,40,22,63,6,4,4,"Muchos naturales de productores chicos: el sommelier no conoce 4 y estima por estilo. Es el mismo riesgo que mide T3 en el subconjunto chileno chico."
+2027-02-26,P1-01,2.ª,35,35,,,,,,"Contenido de la 2.ª revisión fuera del alcance de este set."
+2027-03-01,P1-06,2.ª,20,25,,,,,,"Ídem."
+2027-03-03,P1-02,2.ª,45,40,,,,,,"Ídem. Entraron el Montes Merlot y el Leyda Pinot que habían quedado fuera."
+2027-03-12,P1-04,2.ª,35,15,,,,,,"Se entregó aunque pidió fuera de plazo (regla: la 2.ª revisión sí se entrega)."
